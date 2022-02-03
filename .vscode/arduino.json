@@ -1,3 +1,4 @@
 {
-    "board": "arduino:samd:nano_33_iot"
+    "board": "arduino:samd:nano_33_iot",
+    "sketch": "index.ino"
 }

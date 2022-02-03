@@ -263,8 +263,8 @@ void configureSensor(void)
 // SD Built-In by Arduino, SparkFun Version 1.2.4 INSTALLED
 // Servo Built-In by Michael Margolis, Arduino Version 1.1.8 INSTALLED
 // SpacebrewYun Built-In by Julio Terra Version 1.0.2 INSTALLED
-// SPI Built-In by Arduino Version 1.0.0 INSTALLED
-// Wire Built-In by Arduino Version 1.0.0 INSTALLED
+//   SPI Built-In by Arduino Version 1.0.0 INSTALLED
+//   Wire Built-In by Arduino Version 1.0.0 INSTALLED
 // HID(samd) Built-In by Arduino Version 1.0.0 INSTALLED
 // I2S Built-In by Arduino Version 1.0.0 INSTALLED
 // SAMD_AnalogCorrection Built-In by Arduino Version 1.0.0 INSTALLED
