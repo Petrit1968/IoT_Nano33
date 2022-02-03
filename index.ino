@@ -251,3 +251,29 @@ void configureSensor(void)
   
   tsl2591Gain_t gain = tsl.getGain();
 }
+
+
+// Esplora Built-In by Arduino Version 1.0.4 INSTALLED
+// Bridge Built-In by Arduino Version 1.7.0 INSTALLED
+// Firmata Built-In by Firmata Developers Version 2.5.8 INSTALLED
+// Ethernet Built-In by Arduino Version 2.0.0 INSTALLED
+// Robot Control Built-In by Arduino Version 1.0.4 INSTALLED
+// Robot IR Remote Built-In by Arduino Version 2.0.0 INSTALLED
+// Robot Motor Built-In by Arduino Version 1.0.3 INSTALLED
+// SD Built-In by Arduino, SparkFun Version 1.2.4 INSTALLED
+// Servo Built-In by Michael Margolis, Arduino Version 1.1.8 INSTALLED
+// SpacebrewYun Built-In by Julio Terra Version 1.0.2 INSTALLED
+// SPI Built-In by Arduino Version 1.0.0 INSTALLED
+// Wire Built-In by Arduino Version 1.0.0 INSTALLED
+// HID(samd) Built-In by Arduino Version 1.0.0 INSTALLED
+// I2S Built-In by Arduino Version 1.0.0 INSTALLED
+// SAMD_AnalogCorrection Built-In by Arduino Version 1.0.0 INSTALLED
+// SAMD_BootloaderUpdater Built-In by Arduino Version 1.0.0 INSTALLED
+// SBU Built-In by Arduino Version 1.0.0 INSTALLED
+// SDU Built-In by Arduino Version 1.0.0 INSTALLED
+// SFU Built-In by Arduino Version 1.0.0 INSTALLED
+// SNU Built-In by Arduino Version 1.0.2 INSTALLED
+// SPI(samd) Built-In by Jonathan BAUDIN, Thibaut VIARD, Arduino Version 1.0.0 INSTALLED
+// SSU Built-In by Arduino Version 1.0.0 INSTALLED
+// USBHost(samd) Built-In by Arduino Version 1.0.0 INSTALLED
+// Wire(samd) Built-In by Jonathan BAUDIN, Thibaut VIARD, Arduino Version 1.0.0 INSTALLED
